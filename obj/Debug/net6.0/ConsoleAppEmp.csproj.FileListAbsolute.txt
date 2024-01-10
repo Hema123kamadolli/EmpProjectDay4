@@ -1,0 +1,14 @@
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.AssemblyInfoInputs.cache
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.AssemblyInfo.cs
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.csproj.CoreCompileInputs.cache
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\net6.0\ConsoleAppEmp.exe
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\net6.0\ConsoleAppEmp.deps.json
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\net6.0\ConsoleAppEmp.runtimeconfig.json
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\net6.0\ConsoleAppEmp.dll
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\net6.0\ConsoleAppEmp.pdb
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.dll
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\refint\ConsoleAppEmp.dll
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.pdb
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ConsoleAppEmp.genruntimeconfig.cache
+D:\Mphasis-2\Phase-4\Day-4(Jan102024)\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\net6.0\ref\ConsoleAppEmp.dll
